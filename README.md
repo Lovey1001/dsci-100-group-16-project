@@ -1,1 +1,1 @@
-Final project made for Data Science class. 
+Final project for a data science class that looked at whether it is possible to accurately predict the spending score of customers using their age, family size, and annual income as predictors. Here, the spending score refers to a value between 0 to 100 that is proportional to the amount of money a customer spends in the shop. 
